@@ -1,0 +1,5 @@
+*.exe
+*.dll
+*.mp4
+
+.vscode/
