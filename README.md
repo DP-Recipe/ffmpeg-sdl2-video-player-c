@@ -37,13 +37,3 @@ Esc - Exit
 - FFmpeg
 - SDL2
 
-##Project Overview
-
-This project is a custom media player built in C using FFmpeg and SDL2. It supports MP4 playback with H264 video decoding and AAC audio decoding. The player includes playback controls such as pause/resume, seeking, and variable playback speeds.
-
-##Future Improvements
--Improved Audio/Video Synchronization
--Subtitle Support
--Fullscreen Mode
--Playlist Support
--Hardware Accelerated Decoding
