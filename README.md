@@ -2,6 +2,9 @@
 # FFmpeg SDL2 Video Player
 
 A media player written in C using FFmpeg and SDL2.
+## Screenshot
+
+![Video Player](screenshot.png)
 
 ## Features
 
